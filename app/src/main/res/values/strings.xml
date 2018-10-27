@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Building Environment</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_button">LOGIN</string>
+    <string name="home_title">Home</string>
+    <string name="btn_date">DATE</string>
+    <string name="remark">Remark</string>
+    <string name="amount">Amount</string>
+    <string name="btn_hours">Hour</string>
+    <string name="test_choose">Select hour</string>
+    <string name="title_main_activity">ActivityMain</string>
+    <string name="activity_expense">Expense List</string>
+    <string name="str_upload_bill">Upload Bill</string>
+    <string name="strSave">Save</string>
+    <string name="strAdd">Add</string>
+    <string name="strActivityName">Report Writing FAE SHW</string>
+    <string name="strBlack">#ffffff</string>
+</resources>
